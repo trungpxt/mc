@@ -1,0 +1,73 @@
+ /* tai mc.css */
+#icon{
+	padding-left: 5px;
+}
+#body{
+	height: 100%;
+    margin: 0;
+	background-color: black;
+	color: #0CFF00;
+	font-size: 35px;
+	font-weight: 900;
+	width: 100%;
+	
+}
+.a-class{
+	color: red;
+	background-color: #0CFF00;
+	border: 3px solid blue;
+	border-radius: 25px;
+	font-size: 50px;
+	text-decoration: none;
+}
+#intro{
+	background-color: #00FCFF;
+	color: #FF0000;
+	border: 3px solid #0006FF;
+	border-radius: 25px;
+}
+.intro2-class{
+	border: 3px solid #00FF0C;
+	background-color:#00F0FF ;
+	color: #F6FF00;
+	border-radius: 15px;
+}
+#ảnh{
+	float: left;
+	padding-right: 160px;
+}
+#header{
+	margin-bottom: 0px;
+	height: 60px;
+	background-color: #1800FF;
+}
+
+#open{
+	background-color: black;
+}
+#menu{
+	background-color:#1f1f1f;
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+}
+.mini_item{
+	font-size: 25px;
+	color: #00FCFF;
+	text-decoration: none;
+	display: block;
+	padding: 18px 20px;
+}
+.item_menu{
+	float: right;
+	padding-left: 30px;
+	padding-right: 30px;
+	
+}
+.item_menu:hover{
+	background-color: #8D0909;
+}
+#open{
+	background-color: #000CFF;
+}
